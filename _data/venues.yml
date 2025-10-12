@@ -1,9 +1,25 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# "AJP":
+#   url: https://aapt.scitation.org/journal/ajp
+#   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+# "PhysRev":
+#   url: https://journals.aps.org/
 
-"Vision":
-  color: "#009f36"
+# "Vision":
+#   color: "#009f36"
+
+"WCCFL41":
+  url: https://babel.ucsc.edu/wccfl41/
+  color: "#9f3600"
+
+"SALT":
+  url: https://saltconf.github.io/
+  color: "#2fedda"
+
+"SuB29":
+  url: https://sub29.unime.it/il-convegno/
+  color: "#3982f7"
+
+"COLM":
+  url: https://colmweb.org/
+  color: "#1e21d4"

@@ -1,200 +1,229 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Ankana Saha",
+    "label": "PhD Candidate · Linguistics",
+    // "email": "ankana [DOT] saha [DOT] 09 [AT] gmail [DOT] com",
+    // "url": "https://sites.google.com/g.harvard.edu/ankanasaha",
+    "summary": "PhD Candidate in Linguistics at Harvard University with research interests in experimental semantics & pragmatics, semantic theory, cross-linguistic experimentation, and semantic fieldwork.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "city": "Cambridge",
+      "region": "Massachusetts",
+      "countryCode": "US"
     }
-  ],
-  "volunteer": [
+  },
+  "interests": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Research Interests",
+      "keywords": [
+        "Experimental semantics & pragmatics",
+        "Semantic theory",
+        "Cross-linguistic experimentation",
+        "Semantic fieldwork"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Harvard University",
+      "location": "Cambridge, USA",
+      "area": "Linguistics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2019",
+      "endDate": "present",
+      "summary": "Thesis: The Anatomy of Definiteness (expected Fall 2025). Advisors: Gennaro Chierchia, Kathryn Davidson, Veneeta Dayal"
+    },
+    {
+      "institution": "The English and Foreign Languages University",
+      "location": "Hyderabad, India",
+      "area": "Linguistics",
+      "studyType": "MA",
+      "startDate": "2015",
+      "endDate": "2017",
+      "score": "GPA 7.64/8, Outstanding, graduated at top of class"
+    },
+    {
+      "institution": "Christ University",
+      "location": "Bangalore, India",
+      "area": "Physics, Chemistry, Mathematics",
+      "studyType": "BSc Triple Major",
+      "startDate": "2011",
+      "endDate": "2014",
+      "score": "First Class with Distinction; 81%"
+    }
+  ],
+  "work": [
+    {
+      "name": "Harvard University, Department of Linguistics",
+      "position": "Lab Manager, Meaning and Modality Lab",
+      "startDate": "2025-06",
+      "endDate": "present"
+    },
+    {
+      "name": "Harvard University, Department of Linguistics",
+      "position": "Curriculum Developer, LING 10: Language",
+      "startDate": "2025-09",
+      "endDate": "present"
+    },
+    {
+      "name": "Harvard University, Department of Linguistics",
+      "position": "Assistant Head Tutor",
+      "startDate": "2023",
+      "endDate": "2024"
+    },
+    {
+      "name": "Harvard University, Department of Linguistics",
+      "position": "Graduate Teaching Fellow",
+      "startDate": "2021",
+      "endDate": "2024"
+    },
+    {
+      "name": "ViaX Online Education",
+      "position": "Instructor of Linguistics (freelance, remote)",
+      "startDate": "2020-06",
+      "endDate": "2020-08"
+    },
+    {
+      "name": "Oxford University Press (Global Academic Publishing Division)",
+      "position": "Editorial Intern",
+      "startDate": "2017",
+      "endDate": "2017"
+    },
+    {
+      "name": "Orient BlackSwan Private Limited",
+      "position": "Editorial Intern",
+      "startDate": "2016",
+      "endDate": "2016"
+    },
+    {
+      "name": "ANSRSource India Pvt. Ltd.",
+      "position": "Developmental Editor",
+      "startDate": "2014",
+      "endDate": "2015"
+    }
+  ],
+  "research": [
+    {
+      "position": "Visiting Researcher",
+      "organization": "Leibniz-Centre General Linguistics (ZAS), Berlin",
+      "startDate": "2023-06",
+      "endDate": "2023-08",
+      "advisor": "Uli Sauerland",
+      "summary": "Project: Optional Plural Marking"
+    },
+    {
+      "position": "Research Assistant",
+      "organization": "Boston University, Department of Linguistics",
+      "startDate": "2022-06",
+      "endDate": "2022-08",
+      "advisor": "Kate Lindsey",
+      "summary": "Project: Pahoturi River Language documentation project"
+    }
+  ],
+  "teaching": [
+    {
+      "institution": "Harvard University",
+      "course": "LING S-101: The Science of Language: An Introduction",
+      "role": "Primary Instructor",
+      "year": "2025 Summer"
+    },
+    {
+      "institution": "Harvard University",
+      "course": "LING 83: Language, Structure, and Cognition",
+      "role": "Head Teaching Fellow",
+      "year": "2024 Spring"
+    },
+    {
+      "institution": "Harvard University",
+      "course": "LING 98a: Semantics of Modification: An Introduction",
+      "role": "Primary Instructor",
+      "year": "2022 Fall"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "XXIII Frontier Fellowship",
+      "date": "2024-2025",
+      "awarder": "Harvard Griffin Graduate School of Arts and Sciences",
+      "summary": "$40,830"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "Amartya Sen Fellowship for Students from India",
+      "date": "2019-2024",
+      "awarder": "Harvard University",
+      "summary": "Multiple years, ranging $35,676–$40,620"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Assistant Professorship in Linguistics",
+      "date": "2017",
+      "awarder": "University Grants Commission, India",
+      "summary": "Awarded to top 6% of candidates"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Demonstrative descriptions and anti-uniqueness",
+      "publisher": "Proceedings of Sinn und Bedeutung (SuB) 29",
+      "releaseDate": "2025"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Anaphoric demonstratives in Mandarin",
+      "publisher": "Proceedings of Semantics and Linguistic Theory (SALT) 34",
+      "releaseDate": "2024"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
+      "name": "Reference to kinds: the perspective from Bangla",
+      "publisher": "Proceedings of WCCFL 41",
+      "releaseDate": "2023"
+    },
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Positively Polar Plurals",
+      "publisher": "Proceedings of SALT 30",
+      "releaseDate": "2020"
     }
   ],
   "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
+    { "language": "English", "fluency": "Fluent" },
+    { "language": "Bangla", "fluency": "Native" },
+    { "language": "Hindi", "fluency": "Advanced" },
+    { "language": "Spanish", "fluency": "Conversational" },
+    { "language": "Italian", "fluency": "Basic" },
+    { "language": "Assamese", "fluency": "Fieldwork" },
+    { "language": "Odia", "fluency": "Fieldwork" },
+    { "language": "Icibemba", "fluency": "Fieldwork" }
   ],
-  "interests": [
+  "skills": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Technical Skills",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "R",
+        "regex",
+        "LaTeX",
+        "FLEx",
+        "Qualtrics",
+        "ELAN",
+        "Praat",
+        "Ruby",
+        "Java",
+        "OCaml"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Kathryn Davidson",
+      "reference": "Professor, Department of Linguistics, Harvard University",
+      "email": "kathryndavidson@fas.harvard.edu"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "name": "Gennaro Chierchia",
+      "reference": "Haas Foundations Professor & Interim Chair, Department of Linguistics, Harvard University",
+      "email": "chierch@fas.harvard.edu"
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Veneeta Dayal",
+      "reference": "Dorothy R. Diebold Professor & Chair, Department of Linguistics, Yale University",
+      "email": "veneeta.dayal@yale.edu"
     }
   ]
 }
