@@ -32,7 +32,7 @@ nav_order: 5
 - **Saha, Ankana.** 2022. *The typology of free choice and polarity in Bangla.* Talk at *14th Annual Western Interdisciplinary Student Symposium on Language Research (WISSLR 2022).*
 - **Saha, Ankana.** 2022. *Free choice and epistemicity in Bangla.* Poster at *12th Formal Approaches to South Asian Languages (FASAL 12).* [[Link]](https://drive.google.com/file/d/1j9kKww6d3vHiJ0Sd1z0J48g1y4C8LpfM/view?usp=sharing)
 - **Saha, Ankana.** 2022. *The puzzle of kind reference in Bangla.* Southern New England Workshop in Semantics (SNEWS).
-- Ahn, Dorothy, **Ankana Saha** & Uli Sauerland. 2020. *Positively Polar Plurals.* Poster at *Semantics and Linguistic Theory (SALT) 30,* Cornell University. [OSF Page](https://osf.io/7dtbw/) [[Link]](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/30.450)
+- Ahn, Dorothy, **Ankana Saha** & Uli Sauerland. 2020. *Positively Polar Plurals.* Poster at *Semantics and Linguistic Theory (SALT) 30,* Cornell University. [[Link]](https://osf.io/7dtbw/)
 ---
 
 <!-- ## Selected Other Presentations
