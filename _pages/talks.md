@@ -21,21 +21,21 @@ nav_order: 5
 - Wang, Xiaotian, **Ankana Saha** & Kathryn Davidson. (upcoming). *Code-switching in Mandarin and English Definite Noun Phrases.* Talk at 2026 LSA Annual Meeting, New Orleans, Louisiana.
 - Wang, Xiaotian, **Ankana Saha** & Kathryn Davidson. 2025. *The Expression of Strong Definiteness in Code-switched Context.* Poster at the *15th International Symposium on Bilingualism (ISB15)*, Donostia-San Sebastián.
 - **Saha, Ankana.** 2024. *Demonstratives and alternatives.* Talk at *Sinn und Bedeutung 29*, Noto, Sicily.
-- **Saha, Ankana** & Kathryn Davidson. 2024. *Distinctions in anaphoricity: German strong definites vs. demonstratives.* Poster at the *5th Experimental Pragmatics in Italy Conference (XPRAG.it 2024).* [Link](https://drive.google.com/file/d/1fBojS6H4zm09PPT3Bpdr75lFLxltIY2l/view?usp=sharing)
-- **Saha, Ankana**, Yağmur Sağ, Jian Cui & Kathryn Davidson. 2024. *Mandarin demonstratives as strong definites: An experimental investigation.* Talk at *Experiments in Linguistic Meaning (ELM 3)*, University of Pennsylvania. [Link](https://drive.google.com/file/d/152Cxa4ZOwzv1gh9FydrmbeVqavTPvxAA/view?usp=sharing)
-- **Saha, Ankana**, Yağmur Sağ, Jian Cui & Kathryn Davidson. 2024. *Mandarin demonstratives as strong definites.* Poster at *Semantics and Linguistic Theory (SALT) 34.* [Link](https://drive.google.com/file/d/1hrFKNsO5O5hYIaIfSorXP-K-mS7Z9Rjs/view?usp=sharing)
-- Schwarz, Florian, Agata Renans, Hasiyatu Abubakari, Dorothy Ahn, Fenna Bergsma, Nattanu Chanchaochai, Reginald Duah, Imke Driemel, Ljudmila Geist, Mira Grubic, Sampson Korsah, Suet-Ying Lam, Cecile Meier, Yağmur Sağ, **Ankana Saha**, Radek Šimík, and Alexandra Simonenko. 2023. *Two types of definites – cross-linguistic experimental study.* Talk at *Cross-linguistic Perspectives on Processing and Learning (X-PPL 2023).* [Link](https://drive.google.com/file/d/1BZNLlepPzfN9i4JX2fm0xbMw30Vc9NSH/view?usp=sharing)
-- **Saha, Ankana**, Yağmur Sağ & Kathryn Davidson. 2023. *Focus on demonstratives: Experiments in English and Turkish.* Poster at *Semantics and Linguistic Theory (SALT) 33.* [Link](https://drive.google.com/file/d/14K5shyT3aUfFqLfjbdbm3JuGIv1YIfPx/view?usp=sharing)
-- **Saha, Ankana.** 2023. *Reference to kinds: the perspective from Bangla.* Talk at *West Coast Conference on Formal Linguistics (WCCFL) 41.* [Link](https://drive.google.com/file/d/1BZNLlepPzfN9i4JX2fm0xbMw30Vc9NSH/view?usp=sharing)
-- **Saha, Ankana.** 2023. *Reference to kinds: the perspective from Bangla.* Poster at the *Workshop on (In)definiteness and Genericity across Languages,* Yale University, May 11, 2023. [Link](https://drive.google.com/file/d/1E8XQ6THc5ifjoa_7mvLW9l0WnULpG0XY/view?usp=sharing)
+- **Saha, Ankana** & Kathryn Davidson. 2024. *Distinctions in anaphoricity: German strong definites vs. demonstratives.* Poster at the *5th Experimental Pragmatics in Italy Conference (XPRAG.it 2024).* [[Link]](https://drive.google.com/file/d/1fBojS6H4zm09PPT3Bpdr75lFLxltIY2l/view?usp=sharing)
+- **Saha, Ankana**, Yağmur Sağ, Jian Cui & Kathryn Davidson. 2024. *Mandarin demonstratives as strong definites: An experimental investigation.* Talk at *Experiments in Linguistic Meaning (ELM 3)*, University of Pennsylvania. [[Link]](https://drive.google.com/file/d/152Cxa4ZOwzv1gh9FydrmbeVqavTPvxAA/view?usp=sharing)
+- **Saha, Ankana**, Yağmur Sağ, Jian Cui & Kathryn Davidson. 2024. *Mandarin demonstratives as strong definites.* Poster at *Semantics and Linguistic Theory (SALT) 34.* [[Link]](https://drive.google.com/file/d/1hrFKNsO5O5hYIaIfSorXP-K-mS7Z9Rjs/view?usp=sharing)
+- Schwarz, Florian, Agata Renans, Hasiyatu Abubakari, Dorothy Ahn, Fenna Bergsma, Nattanu Chanchaochai, Reginald Duah, Imke Driemel, Ljudmila Geist, Mira Grubic, Sampson Korsah, Suet-Ying Lam, Cecile Meier, Yağmur Sağ, **Ankana Saha**, Radek Šimík, and Alexandra Simonenko. 2023. *Two types of definites – cross-linguistic experimental study.* Talk at *Cross-linguistic Perspectives on Processing and Learning (X-PPL 2023).* [[Link]](https://drive.google.com/file/d/1BZNLlepPzfN9i4JX2fm0xbMw30Vc9NSH/view?usp=sharing)
+- **Saha, Ankana**, Yağmur Sağ & Kathryn Davidson. 2023. *Focus on demonstratives: Experiments in English and Turkish.* Poster at *Semantics and Linguistic Theory (SALT) 33.* [[Link]](https://drive.google.com/file/d/14K5shyT3aUfFqLfjbdbm3JuGIv1YIfPx/view?usp=sharing)
+- **Saha, Ankana.** 2023. *Reference to kinds: the perspective from Bangla.* Talk at *West Coast Conference on Formal Linguistics (WCCFL) 41.* [[Link]](https://drive.google.com/file/d/1BZNLlepPzfN9i4JX2fm0xbMw30Vc9NSH/view?usp=sharing)
+- **Saha, Ankana.** 2023. *Reference to kinds: the perspective from Bangla.* Poster at the *Workshop on (In)definiteness and Genericity across Languages,* Yale University, May 11, 2023. [[Link]](https://drive.google.com/file/d/1E8XQ6THc5ifjoa_7mvLW9l0WnULpG0XY/view?usp=sharing)
 - **Saha, Ankana.** 2022. *Free choice and epistemicity in Bangla: A test for exhaustification-based approaches.* Talk at *46th Annual Penn Linguistics Conference (PLC 46).*
 - **Saha, Ankana.** 2022. *The typology of free choice and polarity in Bangla.* Talk at *14th Annual Western Interdisciplinary Student Symposium on Language Research (WISSLR 2022).*
-- **Saha, Ankana.** 2022. *Free choice and epistemicity in Bangla.* Poster at *12th Formal Approaches to South Asian Languages (FASAL 12).* [Link](https://drive.google.com/file/d/1j9kKww6d3vHiJ0Sd1z0J48g1y4C8LpfM/view?usp=sharing)
+- **Saha, Ankana.** 2022. *Free choice and epistemicity in Bangla.* Poster at *12th Formal Approaches to South Asian Languages (FASAL 12).* [[Link]](https://drive.google.com/file/d/1j9kKww6d3vHiJ0Sd1z0J48g1y4C8LpfM/view?usp=sharing)
 - **Saha, Ankana.** 2022. *The puzzle of kind reference in Bangla.* Southern New England Workshop in Semantics (SNEWS).
-- Ahn, Dorothy, **Ankana Saha** & Uli Sauerland. 2020. *Positively Polar Plurals.* Poster at *Semantics and Linguistic Theory (SALT) 30,* Cornell University. [OSF Page](https://osf.io/7dtbw/) [Link](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/30.450)
+- Ahn, Dorothy, **Ankana Saha** & Uli Sauerland. 2020. *Positively Polar Plurals.* Poster at *Semantics and Linguistic Theory (SALT) 30,* Cornell University. [OSF Page](https://osf.io/7dtbw/) [[Link]](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/30.450)
 ---
 
-## Selected Other Presentations
+<!-- ## Selected Other Presentations
 
 - **Saha, Ankana.** 2025. *Anaphora in ASL* Meaning & Modality Linguistics Lab, Harvard University.
 - **Saha, Ankana.** 2024. *Deconstructing definiteness: Experiments in anaphora.* Harvard Linguistics Graduate Students Workshop 2024.
@@ -50,6 +50,6 @@ nav_order: 5
 - **Saha, Ankana.** 2018. *The question particles in Assamese and Bangla* (joint work with Sushanta Rajkhowa & Yangchen Roy). GIAN Workshop, University of Mumbai, India.
 - **Saha, Ankana.** 2018. *D-Linking in Assamese and Bangla* (joint work with Sushanta Rajkhowa & Yangchen Roy). GIAN Workshop, University of Mumbai, India.
 
-
+ -->
 
 
