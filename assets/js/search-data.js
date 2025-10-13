@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "",
+          description: "Download my CV →",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -25,14 +25,14 @@ ninja.data = [{
           },
         },{id: "nav-papers",
           title: "papers",
-          description: "publications by categories in reversed chronological order.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-talks",
           title: "talks",
-          description: "talks &amp; presentations in reversed chronological order.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/talks/";
@@ -92,25 +92,25 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
             },},{id: "projects-demonstrative-descriptions-and-anti-uniqueness",
-          title: 'Demonstrative descriptions and anti-uniqueness',
+          title: 'Demonstrative Descriptions and Anti-Uniqueness',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/antiuniqueness/";
-            },},{id: "projects-bare-nouns-kind-reference-and-classifiers",
-          title: 'Bare nouns, kind reference and classifiers',
+            },},{id: "projects-kind-reference-in-classifier-languages",
+          title: 'Kind Reference in Classifier Languages',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bare_nouns/";
             },},{id: "projects-definiteness-and-anaphora",
-          title: 'Definiteness and anaphora',
+          title: 'Definiteness and Anaphora',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/definiteness_and_anaphora/";
-            },},{id: "projects-pragmatic-competence-of-artificial-language-systems",
-          title: 'Pragmatic competence of artificial language systems',
+            },},{id: "projects-pragmatic-reasoning-in-language-models",
+          title: 'Pragmatic Reasoning in Language Models',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/pragmatic/";
+              window.location.href = "/projects/pragmatics_llm/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -124,6 +124,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/Ankana-Saha", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/ankana-saha", "_blank");
         },
       },{
         id: 'social-scholar',
