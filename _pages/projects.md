@@ -16,9 +16,9 @@ horizontal: false
 }
 </style>
 
-Most of my current work focuses on the nominal domain, exploring the semantics and pragmatics of reference—including definites, demonstratives, and anaphora—as well as kind reference and the interpretation of bare nouns in languages with and without determiners. I’m also interested in using insights from linguistics and experimental data to better inform our understanding of language models’ capabilities and limitations. 
+Most of my current work focuses on the nominal domain, investigating the semantics and pragmatics of referential expressions, anaphora, kind reference, the interpretation of bare nouns in classifier languages, . I’m also particularly interested in using insights from linguistics and experimental data to better inform our understanding of language models’ capabilities and limitations. 
 
-Below are some of my ongoing research projects
+Below are some of my ongoing research projects.
 
 <!-- I'm a final year PhD candidate in the Department of Linguistics at Harvard University, and my dissertation is advised by Dr Gennaro Chierchia (co-chair) and Dr Kathryn Davidson (co-chair) and Dr Veneeta Dayal. My research lies at the intersection of semantics, pragmatics, and syntax, and asks how utterances acquire their meanings, and how those meanings interact with linguistic structure and discourse context. I approach these questions using tools from formal logic and mathematics, together with experimental methods and fieldwork. -->
 
