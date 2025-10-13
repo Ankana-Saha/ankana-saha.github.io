@@ -16,7 +16,7 @@ nav_order: 5
 
 ---
 
-## Refereed Conference Talks and Posters
+## Conference Presentations
 
 - **Wang, Xiaotian, Ankana Saha & Kathryn Davidson.** (upcoming). *Code-switching in Mandarin and English Definite Noun Phrases.* Talk at 2026 LSA Annual Meeting, New Orleans, Louisiana.
 - **Wang, Xiaotian, Ankana Saha & Kathryn Davidson.** 2025. *The Expression of Strong Definiteness in Code-switched Context.* Poster at the *15th International Symposium on Bilingualism (ISB15)*, Donostia-San Sebastián.
@@ -34,9 +34,9 @@ nav_order: 5
 
 ---
 
-## Selected Non-Refereed Presentations
+## Selected Other Presentations
 
-- **April 2024.** *What does anaphora tell us about definiteness? An experimental study.* Meaning & Modality Linguistics Lab, Harvard University.
+<!-- - **April 2024.** *What does anaphora tell us about definiteness? An experimental study.* Meaning & Modality Linguistics Lab, Harvard University. -->
 - **March 2024.** *Deconstructing definiteness: Experiments in anaphora.* Harvard Linguistics Graduate Students Workshop 2024.
 - **October 2023.** *Anaphoric demonstrative descriptions: the view from Mandarin* (joint work with Yağmur Sağ, Jian Cui & Kathryn Davidson). Meaning & Modality Linguistics Lab, Harvard University.
 - **July 2023.** *Focus on demonstratives: Experiments in English and Turkish* (joint work with Yağmur Sağ & Kathryn Davidson). LSA Summer Institute 2023.
