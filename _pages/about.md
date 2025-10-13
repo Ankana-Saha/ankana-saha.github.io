@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://meaningandmodality.github.io/site'>Meaning and Modality Lab</a>, Department of Linguistics, Harvard University
+subtitle: <a href='https://linguistics.fas.harvard.edu/'>Department of Linguistics, Harvard University</a>
 
 profile:
   align: right
@@ -27,32 +27,45 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 <style>
-blockquote {
-  font-size: 0.85rem;
-  line-height: 1.4;
+blockquote,
+table,
+table td,
+table th,
+ul,
+ol,
+li {
+  font-size: 0.9rem;
+  line-height: 1.5;
 }
 </style>
 
-I'm a final year PhD candidate in the Department of Linguistics at Harvard University and I study how meaning is conveyed, how contextual factors shape interpretation and how these processes can be modelled acros natural and artificial language systems.
+I'm a final year PhD candidate in [Linguistics at Harvard University](https://linguistics.fas.harvard.edu/people/ankana-saha) and an affiliate at the [Meaning & Modality Lab](https://meaningandmodality.github.io/site) and [The Institute for Quantitative Social Science](https://www.iq.harvard.edu/). 
+My research lies at the intersection of semantics, pragmatics, and syntax, investigating how utterances acquire meaning, how that meaning interacts with linguistic structure and discourse context, and how these processes can be modeled in both human and artificial systems. You can find out more about my research [here](research).
+<!-- My research investigates how humans and artificial systems use language to create and interpret meaning. I work at the intersection of semantics, pragmatics, and syntax, combining cross-linguistic experimentation, theory, and computational modeling to understand how meaning interacts with linguistic structure and context. -->
 
-> **What's new?**
-- *Discourse Reasoning in Humans and Artificial Language Systems.* University of Pennsylvania. TBD.
+> ##### **🗞️ Recent News**  
+🎤 *Invited talk* --- *Discourse Reasoning in Humans and Artificial Language Systems* at the **University of Pennsylvania**, TBD. <br>
+🎤 *Invited talk* --- *From Humans to Language Models: Testing the Boundaries of Pragmatic Understanding* at the **Harvard Language & Cognition Seminar**, November 2025. <br>
+🎤 *Invited talk* --- *Bridging Modalities: Tracking Reference in Discourse Across Spoken and Sign Language* at the Linguistic Meaning Lab, **Cornell University**, October 2025. <br>
+📄 *New paper* --- *The or That? Evaluating Language Models’ Sensitivity to Discourse Structure in Anaphora* (with Jennifer Hu and Kathryn Davidson) at the **COLM 2025 Pragmatic Reasoning in Language Models Workshop**. [[pdf]](https://drive.google.com/file/d/1n84dk1VIXZTQ4aV32VI68weWVg1-Vzgd/view) <br>
+📄 *New paper* --- *Demonstrative Descriptions and Anti-Uniqueness* at **Sinn und Bedeutung 29 (SuB 29)**. [[pdf]](https://lingbuzz.net/lingbuzz/009091) <br>
+📄 *New paper* --- *Anaphoric Demonstratives in Mandarin* (with Yağmur Sağ, Jian Cui, and Kathryn Davidson) at **Semantics and Linguistic Theory (SALT 34)**. [[pdf]](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/34.011) <br>
+
+<!-- 🗣️ *Upcoming talk* — *Code-switching in Mandarin and English Definite Noun Phrases* (with **Xiaotian Wang** and **Kathryn Davidson**) at the **2026 LSA Annual Meeting**, New Orleans, Louisiana.   -->
+
+<!-- 🧩 *Conference poster* — *The Expression of Strong Definiteness in Code-switched Context* (with **Xiaotian Wang** and **Kathryn Davidson**) presented at the **15th International Symposium on Bilingualism (ISB15)**, Donostia-San Sebastián, 2025.   -->
+<!-- Aug 2025: Paper Demonstrative Descriptions and Anti-Uniqueness accepted to SuB 29.
+*Discourse Reasoning in Humans and Artificial Language Systems.* University of Pennsylvania. TBD.
 - *From Humans to Language Models: Testing the Boundaries of Pragmatic Understanding.* Language & Cognition Seminar, Harvard University. Nov 11, 2025.
 - *Bridging Modalities: Tracking Reference in Discourse Across Spoken and Sign Language.* Linguistic Meaning Lab, Cornell University. October 10, 2025.
 - COLM 2025, The or That? Evaluating Language Models’ Sensitivity to Discourse Structure in Anaphora. (Jennifer Hu*, Ankana Saha*, and Kathryn Davidson)
-- Sub 29, Demonstrative descriptions and anti-uniqueness. (Ankana Saha)
+- Sub 29, Demonstrative descriptions and anti-uniqueness. (Ankana Saha) -->
 
-### **About Me**
+<!-- ### **About Me** -->
 
-I'm a final year PhD candidate in the Department of Linguistics at Harvard University, and my dissertation is advised by Dr Gennaro Chierchia (co-chair) and Dr Kathryn Davidson (co-chair) and Dr Veneeta Dayal. My research lies at the intersection of semantics, pragmatics, and syntax, and asks how utterances acquire their meanings, and how those meanings interact with linguistic structure and discourse context. I approach these questions using tools from formal logic and mathematics, together with experimental methods and fieldwork.
+<!-- I'm a final year PhD candidate in the Department of Linguistics at Harvard University, and my dissertation is advised by Dr Gennaro Chierchia (co-chair) and Dr Kathryn Davidson (co-chair) and Dr Veneeta Dayal. My research lies at the intersection of semantics, pragmatics, and syntax, and asks how utterances acquire their meanings, and how those meanings interact with linguistic structure and discourse context. I approach these questions using tools from formal logic and mathematics, together with experimental methods and fieldwork. -->
 
-Much of my work centers on the nominal domain, including the semantics of bare nouns in languages with and without determiners, kind reference, and the semantics and pragmatics of referring expressions such as definites, demonstratives, and anaphora. I explore these questions through a combination of experimentation, fieldwork, and formal theory.
-
-A central theme of my dissertation is how typological differences across languages and modalities shape and constrain anaphoric reference in definites and demonstratives. I study how spoken languages rely on morphosyntactic strategies, how ASL partitions the anaphoric domain through loci and spatial structure, and how large language models (LLMs) approximate (or diverge from) human patterns. And in particular, I am interested in understanding the pragmatic constraints that cut across all of these systems and modalities.  This comparative perspective, spanning humans vs. machines and spoken vs. visual-gestural modalities aims to identify which constraints on anaphora are modality or system specific and which reflect a shared logical core, contributing to a more precise theory of definiteness, anaphoricity, and meaning.
-
-I am an affiliate at the [Meaning & Modality Lab](https://meaningandmodality.github.io/site) and the The Institute for Quantitative Social Science at Harvard.
-
-Before coming to Harvard, I completed my undergraduate studies in Physics, Chemistry, and Mathematics at Christ University (Bangalore, India) and my Master's degree in Linguistics at The English and Foreign Languages University (Hyderabad, India).
+<!-- Before coming to Harvard, I completed my undergraduate studies in Physics, Chemistry, and Mathematics at Christ University (Bangalore, India) and my Master's degree in Linguistics at The English and Foreign Languages University (Hyderabad, India). -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

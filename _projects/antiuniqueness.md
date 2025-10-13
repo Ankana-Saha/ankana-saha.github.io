@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Demonstrative descriptions and anti-uniqueness
+title: Demonstrative Descriptions and Anti-Uniqueness
 description:
 img:
 importance: 3
@@ -8,7 +8,9 @@ category: work
 related_publications: false
 ---
 
-Demonstrative descriptions robustly give rise to an anti-uniqueness inference, rendering them infelicitous with inherently unique nouns. Two major theoretical approaches have been proposed to explain this phenomenon. One posits that demonstratives lexically encode an anti-uniqueness presupposition in their semantics (Nowak, 2019; Dayal and Jiang, 2022; Owusu, 2022), while the other derives the inference from general pragmatic principles (Blumberg, 2020; Ahn, 2022, 2023). In this paper, I present evidence in favor of the presuppositional account and introduce a modalized implementation that addresses key limitations of prior proposals. Drawing on cross-linguistic empirical data, I further demonstrate that the anti-uniqueness approach is better suited to account for typological variation in this domain.
+Demonstrative expressions show a robust property: they are infelicitous when the noun they modify refers to something inherently unique, as in *that sun* or *that author of Waverley*. This phenomenon—known as the anti-uniqueness effect—raises the question of whether demonstratives are semantically constrained to signal contrast, or whether this pattern arises from broader pragmatic pressures.
+
+This project argues that a pragmatic competition account cannot fully explain the strength and consistency of anti-uniqueness effects. Instead, it develops a presuppositional account that treats anti-uniqueness as a modalized restriction. This approach better captures when demonstratives are felicitous, addresses challenges to previous theories, and accounts for why certain definites in languages like Bangla and Akan pattern with demonstratives despite lacking deictic use. By separating the anti-uniqueness property from deixis, this work offers a more precise and cross-linguistically robust theory of definites and demonstratives.
 
 ## Selected works:
-- [Saha 2025](https://lingbuzz.net/lingbuzz/009091)
+- [Saha 2024](https://lingbuzz.net/lingbuzz/009091)
