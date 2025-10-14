@@ -38,7 +38,7 @@ nav_order: 6
 <br><br><br>
 ## **Advising**
 ---
-
-| **Winter 2021** | Project Advisor, Linguistics (Ivypedia) | freelance | Advisor
-| **Summer 2021** | Mentor in Linguistics (Lumiere Education) | freelance | Mentor
+| **Summer 2025** | Research Advisor, Linguistics (Ivypedia) | freelance | Advisor
+| **Winter 2021** | Research Advisor, Linguistics (Ivypedia) | freelance | Advisor
+| **Summer 2021** | Mentor in Linguistics (Lumiere Education) | freelance | Instructor
 | **Summer 2020** | Independent Teaching, Semantics & Pragmatics (ViaX) | freelance | Instructor
