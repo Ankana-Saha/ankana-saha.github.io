@@ -47,9 +47,9 @@ My research lies at the intersection of semantics, pragmatics, and syntax, inves
 🎤 *Invited talk* --- *Discourse Reasoning in Humans and Artificial Language Systems* at the **University of Pennsylvania**, TBD. <br>
 🎤 *Invited talk* --- *From Humans to Language Models: Testing the Boundaries of Pragmatic Understanding* at the **Harvard Language & Cognition Seminar**, November 2025. <br>
 🎤 *Invited talk* --- *Bridging Modalities: Tracking Reference in Discourse Across Spoken and Sign Language* at the Linguistic Meaning Lab, **Cornell University**, October 2025. <br>
-📄 *New paper* --- *The or That? Evaluating Language Models’ Sensitivity to Discourse Structure in Anaphora* (with Jennifer Hu and Kathryn Davidson) at the **COLM 2025 Pragmatic Reasoning in Language Models Workshop**. [[pdf]](https://drive.google.com/file/d/1n84dk1VIXZTQ4aV32VI68weWVg1-Vzgd/view) <br>
-📄 *New paper* --- *Demonstrative Descriptions and Anti-Uniqueness* at **Sinn und Bedeutung 29 (SuB 29)**. [[pdf]](https://lingbuzz.net/lingbuzz/009091) <br>
-📄 *New paper* --- *Anaphoric Demonstratives in Mandarin* (with Yağmur Sağ, Jian Cui, and Kathryn Davidson) at **Semantics and Linguistic Theory (SALT 34)**. [[pdf]](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/34.011) <br>
+📄 *New paper* --- *The or That? Evaluating Language Models’ Sensitivity to Discourse Structure in Anaphora* (with Jennifer Hu and Kathryn Davidson) at the **Conference on Language Modelling (COLM) 2025 PragLM Workshop**. [[pdf]](https://drive.google.com/file/d/1n84dk1VIXZTQ4aV32VI68weWVg1-Vzgd/view) <br>
+📄 *New paper* --- *Demonstrative Descriptions and Anti-Uniqueness* at **Sinn und Bedeutung (SuB) 29**. [[pdf]](https://lingbuzz.net/lingbuzz/009091) <br>
+📄 *New paper* --- *Anaphoric Demonstratives in Mandarin* (with Yağmur Sağ, Jian Cui, and Kathryn Davidson) at **Semantics and Linguistic Theory (SALT) 34**. [[pdf]](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/34.011) <br>
 
 <!-- 🗣️ *Upcoming talk* — *Code-switching in Mandarin and English Definite Noun Phrases* (with **Xiaotian Wang** and **Kathryn Davidson**) at the **2026 LSA Annual Meeting**, New Orleans, Louisiana.   -->
 
