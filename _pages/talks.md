@@ -19,7 +19,7 @@ nav_order: 5
 ## Conference Presentations
 
 - Wang, Xiaotian, **Ankana Saha** & Kathryn Davidson. (upcoming). *Code-switching in Mandarin and English Definite Noun Phrases.* Talk at the *2026 LSA Annual Meeting*, New Orleans, Louisiana.
-- Hu, Jennifer*, **Ankana Saha*** & Kathryn Davidson. 2025. *The or That? Evaluating language models’ sensitivity to discourse structure in anaphora.* Spotlight talk at the *Conference on Language Modeling (COLM 2025) Pragmatic Reasoning in Language Models Workshop*, Montreal, Canada. [[Link]](https://drive.google.com/file/d/1n84dk1VIXZTQ4aV32VI68weWVg1-Vzgd/view)
+- Hu, Jennifer¹, **Ankana Saha¹** & Kathryn Davidson. 2025. *The or That? Evaluating language models’ sensitivity to discourse structure in anaphora.* Spotlight talk at the *Conference on Language Modeling (COLM 2025) Pragmatic Reasoning in Language Models Workshop*, Montreal, Canada. [[Link]](https://drive.google.com/file/d/1n84dk1VIXZTQ4aV32VI68weWVg1-Vzgd/view)
 - Wang, Xiaotian, **Ankana Saha** & Kathryn Davidson. 2025. *The Expression of Strong Definiteness in Code-switched Context.* Poster at the *15th International Symposium on Bilingualism (ISB15)*, Donostia-San Sebastián, Spain.
 - **Saha, Ankana.** 2024. *Demonstratives and alternatives.* Talk at *Sinn und Bedeutung 29*, Noto, Italy.
 - **Saha, Ankana** & Kathryn Davidson. 2024. *Distinctions in anaphoricity: German strong definites vs. demonstratives.* Poster at the *5th Experimental Pragmatics in Italy Conference (XPRAG.it 2024)*, Venice, Italy. [[Link]](https://drive.google.com/file/d/1fBojS6H4zm09PPT3Bpdr75lFLxltIY2l/view?usp=sharing)

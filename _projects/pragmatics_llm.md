@@ -13,4 +13,5 @@ Recent advances in large language models (LLMs) have renewed the question of wha
 In collaboration with Jennifer Hu (Johns Hopkins University) and Kathryn Davidson, I evaluated 19 models across English, German, Turkish, and Mandarin. The results show that only larger models replicate human behavior: they prefer demonstratives in contexts supporting contrastive inference, while smaller models capture only partial pragmatic effects. These findings suggest that sensitivity to discourse-level constraints is not trivially learnable from surface statistics, but emerges at scale. Building on this foundation, ongoing work explores how and when such sensitivity arises—probing production behavior, developmental trajectories across training checkpoints, and the internal representations that encode pragmatic distinctions. Together, these directions aim to advance our understanding of pragmatic reasoning in humans and machines alike.
 
 ## Selected works:
-- [Hu<sup>*</sup>, Saha<sup>*</sup> & Davidson 2025](https://drive.google.com/file/d/1n84dk1VIXZTQ4aV32VI68weWVg1-Vzgd/view)
+- [Hu¹, Saha¹ & Davidson 2025](https://drive.google.com/file/d/1n84dk1VIXZTQ4aV32VI68weWVg1-Vzgd/view)
+<!-- - [Hu<sup>*</sup>, Saha<sup>*</sup> & Davidson 2025](https://drive.google.com/file/d/1n84dk1VIXZTQ4aV32VI68weWVg1-Vzgd/view) -->
