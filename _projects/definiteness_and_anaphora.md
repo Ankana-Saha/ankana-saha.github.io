@@ -13,6 +13,6 @@ This cross-linguistic collaborative project (with Yağmur Sağ, Jian Cui , and K
 Using a cross-linguistically scalable experimental paradigm, I test how definites and demonstratives are licensed across languages that encode definiteness in different ways, including English, Bangla, Turkish, German, and Mandarin. The results reveal robust and replicable cross-linguistic patterns: definites are felicitous when conditions of familiarity and uniqueness are met, while demonstratives require a contrastive context—one that makes same-kind alternatives salient. This consistent pattern across typologically diverse systems points to a conceptual universality in how demonstratives are licensed.
 
 ## Selected works:
-- [Saha, Sağ, Cui & Davidson 2024](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/34.011)
+- [Saha, Sağ, Cui & Davidson 2025](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/34.011)
+- [Saha, Sağ & Davidson 2024](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/33.023)
 - [Saha & Davidson 2024](https://meaningandmodality.github.io/site/documents/saha_davidson-xprag_2024_demonstratives_poster.pdf)
-- [Saha, Sağ & Davidson 2023](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/33.023)
