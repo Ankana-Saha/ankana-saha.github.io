@@ -35,11 +35,11 @@ nav_order: 6
 | **Fall 2018** | LS 151: Semantics I | graduate course | Teaching Assistant
 
 
-<br><br><br>
+<!-- <br><br><br>
 ## **Advising**
 ---
 
 | **Summer 2025** | Research Advisor, Linguistics (Ivypedia) | freelance | Advisor
 | **Winter 2021** | Research Advisor, Linguistics (Ivypedia) | freelance | Advisor
 | **Summer 2021** | Mentor in Linguistics (Lumiere Education) | freelance | Mentor
-| **Summer 2020** | Independent Teaching, Semantics & Pragmatics (ViaX) | freelance | Instructor
+| **Summer 2020** | Independent Teaching, Semantics & Pragmatics (ViaX) | freelance | Instructor -->
