@@ -9,8 +9,8 @@ nav_order: 5
 
 ## Invited Talks
 
-- **November 2025 (upcoming).** *Discourse Reasoning in Humans and Large Language Models.* University of Pennsylvania. February 3, 2026.
-- **November 2025 (upcoming).** *From Humans to Language Models: Testing the Boundaries of Pragmatic Understanding.* Language & Cognition Seminar, Harvard University. November 11, 2025.
+- **February 2026 (upcoming).** *Discourse Reasoning in Humans and Large Language Models.* University of Pennsylvania. February 3, 2026.
+- **November 2025.** *From Humans to Language Models: Testing the Boundaries of Pragmatic Understanding.* Language & Cognition Seminar, Harvard University. November 11, 2025.
 - **October 2025.** *Bridging Modalities: Tracking Reference in Discourse Across Spoken and Sign Language.* Linguistic Meaning Lab, Cornell University. October 10, 2025.
 - **November 2021.** *The typology of free choice and polarity in Bangla.* Semantics Reading Group, Yale University.
 
