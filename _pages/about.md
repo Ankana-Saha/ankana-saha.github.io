@@ -39,7 +39,7 @@ li {
 }
 </style>
 
-I'm a final year PhD candidate in Linguistics at Harvard University and an affiliate at the [Meaning & Modality Lab](https://meaningandmodality.github.io/site) and [The Institute for Quantitative Social Science](https://www.iq.harvard.edu/). 
+I'm a postdoctoral Fellow in Linguistics at Harvard University and an affiliate at the [Meaning & Modality Lab](https://meaningandmodality.github.io/site) and [The Institute for Quantitative Social Science](https://www.iq.harvard.edu/). I recently received from Harvard with a dissertation looking at definite expressions under the guidance of [Gennaro Chierchia](https://chierchia.scholars.harvard.edu/), [Kate Davidson](https://kathryndavidson.scholars.harvard.edu/), and [Veneeta Dayal](https://campuspress.yale.edu/dayal/).
 My research lies at the intersection of semantics, pragmatics, and syntax, investigating how utterances acquire meaning, how that meaning interacts with linguistic structure and discourse context, and how these processes can be modeled in both human and artificial systems. You can find out more about my research [here](research).
 <!-- My research investigates how humans and artificial systems use language to create and interpret meaning. I work at the intersection of semantics, pragmatics, and syntax, combining cross-linguistic experimentation, theory, and computational modeling to understand how meaning interacts with linguistic structure and context. -->
 
