@@ -47,7 +47,7 @@ My research lies at the intersection of semantics, pragmatics, and syntax, inves
 
 > ##### **🗞️ Recent News**  
 🎤 **Invited talk** --- *Discourse-Pragmatic Sensitivity in Large Language Models* at the **University of Pennsylvania**, February 3, 2026. <br>
-🎓 **PhD dissertation defense** ---  I defended my PhD dissertation, titled *Demonstratives and the Semantics–Pragmatics Interface* on December 8, 2025. <br>
+🎓 **Dissertation defense** ---  I defended my PhD dissertation, titled *Demonstratives and the Semantics–Pragmatics Interface* on December 8, 2025. <br>
 🎤 **Invited talk** --- *From Humans to Language Models: Testing the Boundaries of Pragmatic Understanding* at the **Harvard Language & Cognition Seminar**, November 11, 2025. <br>
 🎤 **Invited talk** --- *Bridging Modalities: Tracking Reference in Discourse Across Spoken and Sign Language* at the Linguistic Meaning Lab, **Cornell University**, October 10, 2025. <br>
 📄 **New paper** --- *The or That? Evaluating Language Models’ Sensitivity to Discourse Structure in Anaphora* (with Jennifer Hu and Kathryn Davidson) at the **Conference on Language Modelling (COLM) 2025 PragLM Workshop**. [[pdf]](https://drive.google.com/file/d/1n84dk1VIXZTQ4aV32VI68weWVg1-Vzgd/view) <br>
