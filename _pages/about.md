@@ -46,7 +46,7 @@ My research lies at the intersection of semantics, pragmatics, and syntax, inves
 <!-- My research investigates how humans and artificial systems use language to create and interpret meaning. I work at the intersection of semantics, pragmatics, and syntax, combining cross-linguistic experimentation, theory, and computational modeling to understand how meaning interacts with linguistic structure and context. -->
 
 > ##### **🗞️ Recent News**  
-🎤 **Invited talk** --- *Discourse-Pragmatic Sensitivity in Large Language Models* at the **University of Pennsylvania**, February 3, 2026. <br>
+🎤 **Invited talk** --- *Discourse-Pragmatic Sensitivity in Large Language Models* at the Experimental Study of Meaning Lab, **University of Pennsylvania**, February 3, 2026. <br>
 🎓 **Dissertation defense** ---  I defended my PhD dissertation, titled *Demonstratives and the Semantics–Pragmatics Interface* on December 8, 2025. <br>
 🎤 **Invited talk** --- *From Humans to Language Models: Testing the Boundaries of Pragmatic Understanding* at the **Harvard Language & Cognition Seminar**, November 11, 2025. <br>
 🎤 **Invited talk** --- *Bridging Modalities: Tracking Reference in Discourse Across Spoken and Sign Language* at the Linguistic Meaning Lab, **Cornell University**, October 10, 2025. <br>
