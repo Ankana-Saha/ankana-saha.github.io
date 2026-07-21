@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://linguistics.fas.harvard.edu/'>Department of Linguistics, Harvard University</a>
+subtitle: Apple, Responsible AI and Human Evaluation
 
 profile:
   align: right
@@ -39,8 +39,7 @@ li {
 }
 </style>
 
-I'm a Postdoctoral Fellow in Linguistics at Harvard University and an affiliate at the [Meaning & Modality Lab](https://meaningandmodality.github.io/site) and [The Institute for Quantitative Social Science](https://www.iq.harvard.edu/). I recently received my PhD from Harvard University with a dissertation examining the division of labor between semantics and pragmatics in the referential domain, with a particular focus on demonstrative expressions, under the guidance of [Gennaro Chierchia](https://chierchia.scholars.harvard.edu/), [Kate Davidson](https://kathryndavidson.scholars.harvard.edu/), and [Veneeta Dayal](https://campuspress.yale.edu/dayal/).
-My research lies at the intersection of semantics, pragmatics, and syntax, investigating how utterances acquire meaning, how that meaning interacts with linguistic structure and discourse context, and how these processes can be modeled in both human and artificial systems. You can find out more about my research [here](research).
+I'm an AIML Resident at Apple. I recently earned my PhD in Linguistics from [Harvard University](https://linguistics.fas.harvard.edu/) with a dissertation examining the division of labor between semantics and pragmatics in the referential domain, with a particular focus on demonstrative expressions, under the guidance of [Gennaro Chierchia](https://chierchia.scholars.harvard.edu/), [Kate Davidson](https://kathryndavidson.scholars.harvard.edu/), and [Veneeta Dayal](https://campuspress.yale.edu/dayal/). My research lies at the intersection of semantics and  pragmatics, investigating how utterances acquire meaning, how meaning interacts with linguistic structure and discourse context, and how these processes can be modeled in both human and artificial systems. I'm particularly interested in using insights from linguistic and experimental data to better inform our understanding of language models’ capabilities and limitations, with a growing focus on AI ethics and bias. You can find out more about my research [here](research).
 
 
 <!-- My research investigates how humans and artificial systems use language to create and interpret meaning. I work at the intersection of semantics, pragmatics, and syntax, combining cross-linguistic experimentation, theory, and computational modeling to understand how meaning interacts with linguistic structure and context. -->
