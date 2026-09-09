@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Apple, Responsible AI and Human Evaluation
+subtitle: Apple Inc., Responsible AI & Human Evaluation
 
 profile:
   align: right
