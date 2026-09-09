@@ -26,6 +26,7 @@ announcements:
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
 ---
+
 <style>
 blockquote,
 table,
@@ -39,19 +40,19 @@ li {
 }
 </style>
 
-I'm an AIML Resident at Apple. I recently earned my PhD in Linguistics from [Harvard University](https://linguistics.fas.harvard.edu/) with a dissertation examining the division of labor between semantics and pragmatics in the referential domain, with a particular focus on demonstrative expressions, under the guidance of [Gennaro Chierchia](https://chierchia.scholars.harvard.edu/), [Kate Davidson](https://kathryndavidson.scholars.harvard.edu/), and [Veneeta Dayal](https://campuspress.yale.edu/dayal/). My research lies at the intersection of semantics and  pragmatics, investigating how utterances acquire meaning, how meaning interacts with linguistic structure and discourse context, and how these processes can be modeled in both human and artificial systems. I'm particularly interested in using insights from linguistic and experimental data to better inform our understanding of language models’ capabilities and limitations, with a growing focus on AI ethics and bias. You can find out more about my research [here](research).
-
+I'm an AIML Resident at Apple. I recently earned my PhD in Linguistics from [Harvard University](https://linguistics.fas.harvard.edu/) with a dissertation examining the division of labor between semantics and pragmatics in the referential domain, with a particular focus on demonstrative expressions, under the guidance of [Gennaro Chierchia](https://chierchia.scholars.harvard.edu/), [Kate Davidson](https://kathryndavidson.scholars.harvard.edu/), and [Veneeta Dayal](https://campuspress.yale.edu/dayal/). My research lies at the intersection of semantics and pragmatics, investigating how utterances acquire meaning, how meaning interacts with linguistic structure and discourse context, and how these processes can be modeled in both human and artificial systems. I'm particularly interested in using insights from linguistic and experimental data to better inform our understanding of language models’ capabilities and limitations, with a growing focus on AI ethics and bias. You can find out more about my research [here](research).
 
 <!-- My research investigates how humans and artificial systems use language to create and interpret meaning. I work at the intersection of semantics, pragmatics, and syntax, combining cross-linguistic experimentation, theory, and computational modeling to understand how meaning interacts with linguistic structure and context. -->
 
-> ##### **🗞️ Recent News**  
-🎤 **Invited talk** --- *Discourse-Pragmatic Sensitivity in Large Language Models* at the Experimental Study of Meaning Lab, **University of Pennsylvania**, February 3, 2026. <br>
-🎓 **Dissertation defense** ---  I defended my PhD dissertation, titled *Demonstratives and the Semantics–Pragmatics Interface* on December 8, 2025. <br>
-🎤 **Invited talk** --- *From Humans to Language Models: Testing the Boundaries of Pragmatic Understanding* at the **Harvard Language & Cognition Seminar**, November 11, 2025. <br>
-🎤 **Invited talk** --- *Bridging Modalities: Tracking Reference in Discourse Across Spoken and Sign Language* at the Linguistic Meaning Lab, **Cornell University**, October 10, 2025. <br>
-📄 **New paper** --- *The or That? Evaluating Language Models’ Sensitivity to Discourse Structure in Anaphora* (with Jennifer Hu and Kathryn Davidson) at the **Conference on Language Modelling (COLM) 2025 PragLM Workshop**. [[pdf]](https://drive.google.com/file/d/1n84dk1VIXZTQ4aV32VI68weWVg1-Vzgd/view) <br>
-📄 **New paper** --- *Demonstrative Descriptions and Anti-Uniqueness* at **Sinn und Bedeutung (SuB) 29**. [[pdf]](https://lingbuzz.net/lingbuzz/009091) <br>
-📄 **New paper** --- *Anaphoric Demonstratives in Mandarin* (with Yağmur Sağ, Jian Cui, and Kathryn Davidson) at **Semantics and Linguistic Theory (SALT) 34**. [[pdf]](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/34.011) <br>
+> ##### **🗞️ Recent News**
+>
+> 🎤 **Invited talk** --- _Discourse-Pragmatic Sensitivity in Large Language Models_ at the Experimental Study of Meaning Lab, **University of Pennsylvania**, February 3, 2026. <br>
+> 🎓 **Dissertation defense** --- I defended my PhD dissertation, titled _Demonstratives and the Semantics–Pragmatics Interface_ on December 8, 2025. <br>
+> 🎤 **Invited talk** --- _From Humans to Language Models: Testing the Boundaries of Pragmatic Understanding_ at the **Harvard Language & Cognition Seminar**, November 11, 2025. <br>
+> 🎤 **Invited talk** --- _Bridging Modalities: Tracking Reference in Discourse Across Spoken and Sign Language_ at the Linguistic Meaning Lab, **Cornell University**, October 10, 2025. <br>
+> 📄 **New paper** --- _The or That? Evaluating Language Models’ Sensitivity to Discourse Structure in Anaphora_ (with Jennifer Hu and Kathryn Davidson) at the **Conference on Language Modelling (COLM) 2025 PragLM Workshop**. [[pdf]](https://drive.google.com/file/d/1n84dk1VIXZTQ4aV32VI68weWVg1-Vzgd/view) <br>
+> 📄 **New paper** --- _Demonstrative Descriptions and Anti-Uniqueness_ at **Sinn und Bedeutung (SuB) 29**. [[pdf]](https://lingbuzz.net/lingbuzz/009091) <br>
+> 📄 **New paper** --- _Anaphoric Demonstratives in Mandarin_ (with Yağmur Sağ, Jian Cui, and Kathryn Davidson) at **Semantics and Linguistic Theory (SALT) 34**. [[pdf]](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/34.011) <br>
 
 <!-- 🗣️ *Upcoming talk* — *Code-switching in Mandarin and English Definite Noun Phrases* (with **Xiaotian Wang** and **Kathryn Davidson**) at the **2026 LSA Annual Meeting**, New Orleans, Louisiana.   -->
 

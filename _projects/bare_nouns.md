@@ -13,4 +13,5 @@ This project investigates how kind reference is encoded in classifier languages 
 Focusing on Bangla, I argue that bare nouns are best analyzed as singular kind terms, an account supported by the behavior of ra, an animacy-restricted classifier that functions as a lexicalized type-shifter from singular kinds to properties. This analysis captures the language’s extensive use of singular kind reference while explaining its restricted distribution. Ongoing work extends this approach to other classifiers in Bangla (ta and gulo) and integrates new empirical data from fieldwork on Odia and Assamese. Together, these findings broaden the empirical foundations for formal models of kind reference and highlight the theoretical significance of South Asian linguistic variation, which remains underrepresented in semantic typology.
 
 ## Selected works:
+
 - [Saha 2023](https://lingbuzz.net/lingbuzz/007686)

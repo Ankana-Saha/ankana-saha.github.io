@@ -6,7 +6,9 @@ title: teaching
 nav: true
 nav_order: 6
 ---
+
 ## **Teaching**
+
 ---
 
 #### Harvard University
@@ -33,7 +35,6 @@ nav_order: 6
 
 | **Spring 2019** | LS 252: Advanced Semantics | graduate course | Teaching Assistant
 | **Fall 2018** | LS 151: Semantics I | graduate course | Teaching Assistant
-
 
 <!-- <br><br><br>
 ## **Advising**

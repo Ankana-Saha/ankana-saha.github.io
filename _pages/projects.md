@@ -8,6 +8,7 @@ nav_order: 3
 # display_categories: [work, fun]
 horizontal: false
 ---
+
 <style>
 .projects .card-text,
 .projects .card-title {
@@ -16,7 +17,7 @@ horizontal: false
 }
 </style>
 
-Most of my current work focuses on the nominal domain, investigating the semantics and pragmatics of referential expressions, anaphora, kind reference, the interpretation of bare nouns in classifier languages, and plurality. I’m also particularly interested in using insights from linguistics and experimental data to better inform our understanding of language models’ capabilities and limitations. 
+Most of my current work focuses on the nominal domain, investigating the semantics and pragmatics of referential expressions, anaphora, kind reference, the interpretation of bare nouns in classifier languages, and plurality. I’m also particularly interested in using insights from linguistics and experimental data to better inform our understanding of language models’ capabilities and limitations.
 
 Below are some of my ongoing research projects.
 
